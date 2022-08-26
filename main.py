@@ -3,7 +3,7 @@
             return a + b  
               
     def SayHello():  
-            print("sup world from Rithik")  
+            print("Hello for CI n CD process circleci")  
       
     if __name__ == '__main__':  
             SayHello()  
